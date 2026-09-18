@@ -31,5 +31,5 @@
 # │
 # ├── src
 # ├── static
-#├── templates
+# ├── templates
 # └── requirements.txt
