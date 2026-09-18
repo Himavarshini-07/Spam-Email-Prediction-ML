@@ -1,0 +1,9 @@
+Metric,Value
+Raw Records,5573
+Final Records,5157
+Input Feature,Message
+Target Variable,Category
+Number of Classes,2
+Ham Count,4516
+Spam Count,641
+Duplicate Rows Remaining,0

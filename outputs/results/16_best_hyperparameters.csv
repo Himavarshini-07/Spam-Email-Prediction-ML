@@ -1,0 +1,2 @@
+model__C,model__class_weight,select__k,tfidf__min_df,tfidf__ngram_range
+2.0,balanced,2000,2,"(1, 1)"

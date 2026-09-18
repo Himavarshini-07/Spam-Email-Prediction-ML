@@ -1,0 +1,3 @@
+Message,Prediction,Spam_Probability
+Congratulations! You have won a free prize. Call now!,SPAM,0.9581996636042207
+"Hi, are we meeting for lunch today?",HAM,0.03244015827246653

@@ -1,0 +1,7 @@
+CO,Implementation
+CO1,Dataset → preprocessing → features → training → evaluation → deployment
+CO2,"Supervised learning using Naive Bayes, Logistic Regression and Linear SVM"
+CO3,Random Forest and feature engineering
+CO4,Unsupervised learning using K-Means and DBSCAN
+CO5,Cross-validation and classification evaluation metrics
+CO6,Model packaging and deployment-ready prediction
